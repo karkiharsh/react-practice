@@ -13,3 +13,8 @@
 
   
 json-server --watch db.json
+
+to-do : 
+ - fix api endpoints
+ - refactor code 
+ - this isnt responsive
